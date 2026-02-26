@@ -164,9 +164,9 @@ CareerLens aims to:
 
 # 👩‍💻 Author
 
-**Tannu Sharma**
-Computer Science Student
-CareerLens Project Developer
+**Tannu Sharma** and **Yash Gajera**
+Computer Science Students
+CareerLens Project Developers
 
 ---
 
